@@ -1,0 +1,1 @@
+# marekgruza-wp.pl
